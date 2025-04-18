@@ -194,3 +194,14 @@ body {
     font-size: 1rem;
   }
 }
+
+
+
+
+
+
+
+
+button, .close, .lightbox .lb-close {
+  display: none !important;
+}
